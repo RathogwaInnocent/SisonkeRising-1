@@ -10,6 +10,8 @@ def draw_square(size,colour):
 	
 draw_square(50,"blue")
 
-reset()
+draw_square(50,"green")
 
-draw_square(150,"green")
+draw_square(50,"Yello")
+
+draw_square(50,"orange")
