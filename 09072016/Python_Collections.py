@@ -1,8 +1,12 @@
 
-myFavCar = ['VW','BMW','G63']
+myFavCar = {1:'VW',2:'BMW',3:'G63'}
 
-for car in myFavCar:
-    
-    print(car)
 
+
+def add_car():
+    for car in myFavCar:
+        VW = ('4 Wheels')
+        print(car)
     
+ 
+add_car()
